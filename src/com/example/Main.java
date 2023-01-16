@@ -10,7 +10,7 @@ Basics:
     - Multiplication
     - Division
     - Sign Conversion
-    - Remainder
+    - Modulo
     - Calculate Exponents
 
 Extras:
